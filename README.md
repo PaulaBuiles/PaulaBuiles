@@ -23,9 +23,13 @@ En mi cuenta de GitHub, encontrarás proyectos y ejemplos que reflejan mi dedica
 Estoy buscando oportunidades para poner en práctica mis conocimientos y habilidades en un entorno de trabajo real. Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme. Estoy emocionada por aprender de otros profesionales del campo y crecer como desarrollador.
 
 ¡Gracias por visitar mi perfil de GitHub y espero tener la oportunidad de colaborar contigo pronto!
-![ejemplo](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=Criscas1609" height="150" alt="stats graph"  />
+  
+![ejemplo](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif)
+  </div>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=PaulaBuiles" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=PaulaBuiles" height="150" alt="languages graph"  />
 </div></div>
 
