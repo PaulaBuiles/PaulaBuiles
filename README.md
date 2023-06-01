@@ -24,6 +24,10 @@ Estoy buscando oportunidades para poner en práctica mis conocimientos y habilid
 
 ¡Gracias por visitar mi perfil de GitHub y espero tener la oportunidad de colaborar contigo pronto!
 ![ejemplo](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=Criscas1609" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=PaulaBuiles" height="150" alt="languages graph"  />
+</div></div>
 
 <!--
 **PaulaBuiles/PaulaBuiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
