@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a todos 👋
 # Paula Andrea Builes Loaiza
 
 ¡Hola! Soy una estudiante apasionada de Ingeniería de Software con un enfoque en el desarrollo de aplicaciones web. Me encanta el proceso de creación y diseño de soluciones innovadoras. Mi objetivo es convertirme en una desarrolladora versátil y altamente competente, capaz de enfrentar desafíos emocionantes y ofrecer soluciones eficientes.
