@@ -23,7 +23,7 @@ En mi cuenta de GitHub, encontrarás proyectos y ejemplos que reflejan mi dedica
 Estoy buscando oportunidades para poner en práctica mis conocimientos y habilidades en un entorno de trabajo real. Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme. Estoy emocionado por aprender de otros profesionales del campo y crecer como desarrollador.
 
 ¡Gracias por visitar mi perfil de GitHub y espero tener la oportunidad de colaborar contigo pronto!
-!(https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif)
+![ejemplo](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif)
 
 <!--
 **PaulaBuiles/PaulaBuiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
